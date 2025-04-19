@@ -1,0 +1,5 @@
+flask==2.3.2
+tensorflow-cpu==2.13.0  # Use CPU-only version to reduce size
+pillow==10.0.0
+numpy==1.24.3
+gunicorn==20.1.0  # Production WSGI server
